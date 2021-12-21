@@ -12,7 +12,7 @@ Git clone this repository in your command line. Open an integrated terminal in V
 
 Run 'npm start' to start the server. You can download insomnia to view your database as well as the GET, POST, PUT and DELETE routes.
 <br>
-Video Link: 
+Video Link: https://watch.screencastify.com/v/a7jG8xNidKRG9doXnVoX
 <br>
 <br>
 
